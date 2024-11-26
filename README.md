@@ -1,1 +1,1 @@
-<iframe src='https://tradingeconomics.com/embed/?s=ukcci&v=202411131723V20230410&h=220&w=350&ref=/united-kingdom/consumer-confidence' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
+<iframe src='https://tradingeconomics.com/embed/?s=szcci&v=202411080821V20230410&h=220&w=350&ref=/switzerland/consumer-confidence&type=column&d1=2023-11-01&d2=2024-10-31' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
